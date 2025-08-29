@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/4a08947a-da31-4ef9-89ee-785f5b55d9f2" /># EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT--01-ALP-FOR-8086
 Name : BARATHRAJ K
 Roll no : 212224230033
 Date of experiment : 29 - 08 - 2025
